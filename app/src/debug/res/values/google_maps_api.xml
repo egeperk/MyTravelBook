@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C8:7F:B8:92:53:A1:8A:2F:5C:F9:5F:54:8A:F9:56:06:F7:EE:05:D3%3Bcom.egeperk.mytravelbook
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.egeperk.mytravelbook
+
+    SHA-1 certificate fingerprint:
+    C8:7F:B8:92:53:A1:8A:2F:5C:F9:5F:54:8A:F9:56:06:F7:EE:05:D3
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAO4KhZxmwwRAsaGaeebyXjw-H4vQ5cL7Q</string>
+</resources>
